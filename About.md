@@ -1,0 +1,1 @@
+My name is Mauricio Tapia, born in Dallas, Texas on July 24th, 1996. I'm currently studying at Texas Tech Online for a BS in Computing Applications. I have two older brothers and 2 older sisters whom I cherish very much. Lastly my biggest passions are Reading & Writing, and Gaming. 

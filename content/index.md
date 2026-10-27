@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Mauricio Tapia's Page
 ---
-## The index page
+## Topic Idea 
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+My topic idea for the semester will be focusing on my love and passion for video games! 
 
 ## Editing pages
 
