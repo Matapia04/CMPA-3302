@@ -5,6 +5,13 @@ title: Mauricio Tapia's Page
 
 My topic idea for the semester will be focusing on my love and passion for video games! 
 
+## Main Categories 
+* [genres/index | Diving into Gaming Genres ]
+* [sub-genres/index | How Gaming Genres Diverge]
+* [music/index | The World of Music in Gaming]
+* [gaming-consoles/index | Gaming Consoles] 
+* [esports/index | E-sports]
+* [personal-favorites/index | My Personal Favorite Games ]
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
