@@ -10,7 +10,7 @@ My topic idea for the semester will be focusing on my love and passion for video
 * [[content/game-development/index|What is Game Development?]]
 * [[music/index|The World of Music in Gaming]]
 * [[gaming-consoles/index|Gaming Consoles]] 
-* [[esports/index|E-sports]]
+* [[content/e-sports/index|E-sports]]
 * [[history/index|History of Gaming]]
 ## Editing pages
 
