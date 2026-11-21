@@ -24,7 +24,7 @@ Placeholder text for games that put more of a unique spin on the genres, perhaps
 ## Recommendations
 Placeholder List of games here that are standout examples of the genre: 
 ## Genres
-* [[content/genres/index|Home]]
+* [[content/genres/index|Back to Genres]]
 * [[action|Action Games]]
 * [[rpg|RPG Games]]
 * [[fighting|Fighting Games]]

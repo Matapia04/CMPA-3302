@@ -6,11 +6,11 @@ title: Mauricio Tapia's Page
 My topic idea for the semester will be focusing on my love and passion for video games! 
 
 ## Main Categories 
-* [[content/genres/index.md|Diving into Gaming Genres]]
-* [[content/game-development/index.md|What is Game Development?]]
+* [[genres/index.md|Diving into Gaming Genres]]
+* [[game-development/index.md|What is Game Development?]]
 * [[music/index.md|The World of Music in Gaming]]
 * [[gaming-consoles/index.md|Gaming Consoles]]
-* [[content/e-sports/index.md|E-sports]]
+* [[e-sports/index.md|E-sports]]
 * [[history/index.md|History of Gaming]]
 ## Editing pages
 
