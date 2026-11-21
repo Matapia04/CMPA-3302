@@ -6,12 +6,12 @@ title: Mauricio Tapia's Page
 My topic idea for the semester will be focusing on my love and passion for video games! 
 
 ## Main Categories 
-* [[content/genres/index|Diving into Gaming Genres]]
-* [[content/game-development/index|What is Game Development?]]
-* [[music/index|The World of Music in Gaming]]
-* [[gaming-consoles/index|Gaming Consoles]] 
-* [[content/e-sports/index|E-sports]]
-* [[history/index|History of Gaming]]
+* [[content/genres/index.md|Diving into Gaming Genres]]
+* [[content/game-development/index.md|What is Game Development?]]
+* [[music/index.md|The World of Music in Gaming]]
+* [[gaming-consoles/index.md|Gaming Consoles]]
+* [[content/e-sports/index.md|E-sports]]
+* [[history/index.md|History of Gaming]]
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
