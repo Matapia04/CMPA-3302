@@ -41,3 +41,9 @@ Terminology commonly used throughout all Fighting Games:
 * Tatsu: Originating from Street Fighter, a Tatsu is any move that's a spinning kick across the screen, passing through projectiles. 
 * Incoming: Common in Tag Fighters, when forcing an enemy to tag out to a different character, or defeating one, if you are free to act while they transition to a new character, any move you do during this period is "incoming"
 * X - Factor: Originating from Marvel Vs Capcom 3, "X-Factor" is a mechanic used to grant your characters a huge boost to their attack strength and ability to combo.
+## Genres
+* [[content/genres/index|Back to Genres]]
+* [[rpg|RPG Games]]
+* [[action|Action Games]]
+* [[horror|Horror Games]]
+* [[strategy|Strategy Games]]

@@ -1,9 +1,9 @@
 ---
 title: Diving into Gaming Genres
 ---
-## What makes a Genre, a Genre? 
+## What  makes a Genre, a Genre? 
 Placeholder text for Intro to gaming genres
-
+m
 ## Genres 
 * [[strategy|Strategy Games ]]
 * [[fighting|Fighting Games]]
