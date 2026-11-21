@@ -1,5 +1,5 @@
 ---
-title: Diving into Gaming Genres(including sub-genres)
+title: Diving into Gaming Genres
 ---
 ## What makes a Genre, a Genre? 
 Placeholder text for Intro to gaming genres
